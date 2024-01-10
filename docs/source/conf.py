@@ -6,8 +6,8 @@ project = 'EigenPro'
 copyright = '2023, Belkin lab'
 author = 'Amirhesam Abedsoltan, Siyuan Ma, Parthe Pandit'
 
-release = '0.1'
-version = '0.1.0'
+release = '3.2'
+version = '3.2.0'
 
 # -- General configuration
 
@@ -29,8 +29,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'alabaster' 
-# html_theme = 'sphinx_rtd_theme'
+# html_theme = 'alabaster' 
+html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
