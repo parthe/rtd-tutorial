@@ -1,8 +1,8 @@
 """
-Lumache - Python library for cooks and food lovers.
+EigenPro - Python library for cooks and food lovers.
 """
 
-__version__ = "0.1.0"
+__version__ = "3.2.0"
 
 
 class InvalidKindError(Exception):
